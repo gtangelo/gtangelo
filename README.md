@@ -28,12 +28,6 @@ I'm currently a second year computer science student at UNSW! You are either com
 - 🔧 Help maintain the Enactus UNSW Society [website](https://enactusunsw.org/)
 - 🕵️ Working on some secret projects behind the scenes
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
 ### I have experience working with...
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
@@ -45,4 +39,5 @@ I'm currently a second year computer science student at UNSW! You are either com
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtangelo&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtangelo&show_icons=true&theme=dark)
+![Gabriel's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gtangelo&theme=dark&layout=compact)
