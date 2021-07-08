@@ -21,11 +21,11 @@ I'm currently a second year computer science student at UNSW! You are either com
 ### A bit about myself...
 - 💻 Working as a part-time software developer
 - 🎓 Studying a Computer Science degree at UNSW
-- 🌐 Interest in web development (both frontend and backend) and potentially security :P
+- 🌐 Interest in web development (both frontend and backend) and cyber security
 
 ### Currently, I'm...
-- 🔐 Leading a team to revamp the UNSW Security Society [website](https://unswsecurity.com/)
-- 🔧 Help maintain the Enactus UNSW Society [website](https://enactusunsw.org/)
+- 🔐 Leading a team to revamp the UNSW Security Society's [website](https://unswsecurity.com/)
+- 🔧 Help maintain the Enactus UNSW Society's [website](https://enactusunsw.org/)
 - 🕵️ Working on some secret projects behind the scenes
 
 ### I have experience working with...
