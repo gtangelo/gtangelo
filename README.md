@@ -40,4 +40,4 @@ I'm currently a second year computer science student at UNSW! You are either com
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtangelo&show_icons=true&theme=dark)
-![Gabriel's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gtangelo&theme=dark&layout=compact)
+![Gabriel's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gtangelo&theme=dark)
