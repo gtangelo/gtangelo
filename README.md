@@ -2,14 +2,9 @@
 I'm currently a second year computer science student at UNSW! You either came across here to have a look at some of my projects, just bored or doing some basic OSINT of me 👀.
 
 ### 💬 A bit about myself...
-- 💻 Working as a part-time software developer
+- 💻 Working as a full-time software engineer
 - 🎓 Studying a Computer Science degree at UNSW
-- 🌐 Interest in web development (both frontend and backend) and cyber security 🤔
-
-### ✨ Currently, I'm...
-- 🔐 Leading a team to revamp the UNSW Security Society's [website](https://unswsecurity.com/)
-- 🔧 Help maintain the Enactus UNSW Society's [website](https://enactusunsw.org/)
-- 🕵️ Working on some secret projects behind the scenes
+- 🌐 Interest in web development (both frontend and backend) and (maybe) cyber security 🤔
 
 ### ⚡ I have experience working with...
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
