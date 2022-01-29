@@ -1,5 +1,5 @@
 ## Hello, World! 👋 I'm Gabriel!
-I'm currently a second year computer science student at UNSW! You either came across here to have a look at some of my projects, just bored or doing some basic OSINT of me 👀.
+I'm currently a third year computer science student at UNSW! You either came across here to have a look at some of my projects, just bored or doing some basic OSINT of me 👀.
 
 ### 💬 A bit about myself...
 - 💻 Working as a full-time software engineer
