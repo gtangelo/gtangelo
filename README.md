@@ -1,7 +1,7 @@
 ## Hello, World! I'm Gabriel! 👋
 I'm currently a third year computer science student at UNSW!
 
-You either came across here to have a look at some of my projects, just bored or doing some basic OSINT of me 👀.
+You either came across here to have a look at some of my projects, just bored or doing some basic OSINT of me 👀, so have fun looking around!
 
 #### 💬 A bit about myself...
 - 🟣 Project lead for CSESoc Projects - Circles
