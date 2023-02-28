@@ -6,8 +6,8 @@ You either came across here to have a look at some of my projects, just bored or
 #### 💬 A bit about myself and my experiences...
 - 🔵 Past Software Engineer (Frontend) Intern @ Canva
 - 9️⃣ Past Software Engineer @ Nine
-- 🛹 2023 Projects Director for Jobsboard, a CSESoc project which aims to connect students with top employers
-- 🟣 2022 Project lead for Circles, a CSESoc project which is an open-source degree planner for UNSW students
+- 🛹 2023 Projects Director for [Jobsboard](https://jobsboard.csesoc.unsw.edu.au/), a CSESoc project which aims to connect students with top employers
+- 🟣 2022 Project lead for [Circles](https://circles.csesoc.app/), a CSESoc project which is an open-source degree planner for UNSW students
 - ❕ 2021 Projects Director for UNSW Security Society
 
 More to come soon... TBD.
